@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 720" role="img" aria-label="Билль о правах 1689 года: ограничения власти монарха" font-family="Arial,sans-serif" fill="#11144b"><defs><marker id="rights-arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#7653d7" stroke-width="1.2"/></marker></defs>
+<text x="470" y="59" font-size="36" fill="#7653d7" font-weight="700" text-anchor="middle">Монарх не может единолично</text>
+<g class="gov-step" style="--step-delay:0ms">
+<rect x="35" y="96" width="870" height="169" rx="25" fill="#7653d7" fill-opacity=".06" stroke="#7653d7" stroke-opacity=".18" stroke-width="2"/>
+<text x="70" y="158" font-size="40" fill="#7653d7" font-weight="700" text-anchor="start">01</text>
+<text x="160" y="158" font-size="34" fill="#11144b" font-weight="600" text-anchor="start">Вводить налоги</text>
+<text x="160" y="214" font-size="27" fill="#11144b" font-weight="400" text-anchor="start">Нужно согласие парламента.</text>
+</g>
+<g class="gov-step" style="--step-delay:280ms">
+<rect x="35" y="294" width="870" height="169" rx="25" fill="#078dba" fill-opacity=".06" stroke="#078dba" stroke-opacity=".18" stroke-width="2"/>
+<text x="70" y="356" font-size="40" fill="#078dba" font-weight="700" text-anchor="start">02</text>
+<text x="160" y="356" font-size="34" fill="#11144b" font-weight="600" text-anchor="start">Приостанавливать законы</text>
+<text x="160" y="412" font-size="27" fill="#11144b" font-weight="400" text-anchor="start">Нужно согласие парламента.</text>
+</g>
+<g class="gov-step" style="--step-delay:560ms">
+<rect x="35" y="492" width="870" height="169" rx="25" fill="#7653d7" fill-opacity=".06" stroke="#7653d7" stroke-opacity=".18" stroke-width="2"/>
+<text x="70" y="554" font-size="40" fill="#7653d7" font-weight="700" text-anchor="start">03</text>
+<text x="160" y="554" font-size="34" fill="#11144b" font-weight="600" text-anchor="start">Содержать постоянную армию</text>
+<text x="160" y="610" font-size="27" fill="#11144b" font-weight="400" text-anchor="start">В мирное время — только с согласия парламента.</text>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 720" role="img" aria-label="1649 год: от казни короля к республике" font-family="Arial,sans-serif" fill="#11144b"><defs><marker id="republic-arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#7653d7" stroke-width="1.2"/></marker></defs>
+<g class="gov-step" style="--step-delay:0ms">
+<rect x="40" y="55" width="860" height="237" rx="25" fill="#7653d7" fill-opacity=".06" stroke="#7653d7" stroke-opacity=".18" stroke-width="2"/>
+<text x="85" y="116" font-size="40" fill="#7653d7" font-weight="700" text-anchor="start">30 января 1649</text>
+<text x="85" y="175" font-size="37" fill="#11144b" font-weight="600" text-anchor="start">Казнь Карла I</text>
+<text x="85" y="229" font-size="31" fill="#11144b" font-weight="400" text-anchor="start">Март: монархия упразднена.</text>
+</g>
+<path d="M470 309V368" fill="none" stroke="#7653d7" stroke-width="4" marker-end="url(#republic-arrow)"/>
+<g class="gov-step" style="--step-delay:280ms">
+<rect x="40" y="398" width="860" height="245" rx="25" fill="#078dba" fill-opacity=".06" stroke="#078dba" stroke-opacity=".18" stroke-width="2"/>
+<text x="85" y="461" font-size="40" fill="#078dba" font-weight="700" text-anchor="start">19 мая 1649</text>
+<text x="85" y="522" font-size="35" fill="#11144b" font-weight="600" text-anchor="start">Англия объявлена республикой</text>
+<text x="85" y="578" font-size="31" fill="#11144b" font-weight="400" text-anchor="start">Новая власть — без короля.</text>
+</g>
+</svg>

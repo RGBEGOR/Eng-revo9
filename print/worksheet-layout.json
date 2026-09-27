@@ -1,0 +1,576 @@
+[
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 11,
+    "text": "АНГЛИЯ",
+    "size": 15,
+    "bold": true
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 17,
+    "text": "КОРОЛЬ И ПАРЛАМЕНТ",
+    "size": 10.8,
+    "bold": true
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 22.5,
+    "text": "Всемирная история  •  9 класс",
+    "size": 9,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 29,
+    "text": "Имя, класс:",
+    "size": 9.5,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 31,
+    "y": 29.9,
+    "x2": 108,
+    "y2": 29.9,
+    "width": 0.18
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 36,
+    "text": "1  СИЛЬНАЯ МОНАРХИЯ",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 37.7,
+    "x2": 141.5,
+    "y2": 37.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 42,
+    "text": "Абсолютизм —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 45,
+    "y": 43.1,
+    "x2": 141.5,
+    "y2": 43.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 45.6,
+    "y": 42,
+    "text": "сосредоточение власти у монарха",
+    "size": 9.2,
+    "bold": false,
+    "field": "absolutism",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 49,
+    "text": "1534: Генрих VIII возглавил",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 78,
+    "y": 50.1,
+    "x2": 141.5,
+    "y2": 50.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 78.6,
+    "y": 49,
+    "text": "Английскую церковь",
+    "size": 9.1,
+    "bold": false,
+    "field": "church",
+    "category": "example"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 56,
+    "text": "1558–1603: правление",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 66,
+    "y": 57.1,
+    "x2": 141.5,
+    "y2": 57.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 66.6,
+    "y": 56,
+    "text": "Елизаветы I",
+    "size": 10.2,
+    "bold": false,
+    "field": "elizabeth",
+    "category": "example"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 63,
+    "text": "2  ОБЩЕСТВО И ПРИЧИНЫ КОНФЛИКТА",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 64.7,
+    "x2": 141.5,
+    "y2": 64.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 70,
+    "text": "Буржуазия —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 42,
+    "y": 71.1,
+    "x2": 141.5,
+    "y2": 71.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 42.6,
+    "y": 70,
+    "text": "владельцы предприятий и капитала",
+    "size": 9.0,
+    "bold": false,
+    "field": "bourgeoisie",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 77,
+    "text": "Пуритане —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 39,
+    "y": 78.1,
+    "x2": 141.5,
+    "y2": 78.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 39.6,
+    "y": 77,
+    "text": "протестанты, требовавшие реформы церкви",
+    "size": 8.4,
+    "bold": false,
+    "field": "puritans",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 84,
+    "text": "Спор: налоги, религия и",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 69,
+    "y": 85.1,
+    "x2": 141.5,
+    "y2": 85.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 69.6,
+    "y": 84,
+    "text": "власть",
+    "size": 10.2,
+    "bold": false,
+    "field": "power",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 90,
+    "text": "1600 — создание Ост-Индской компании.",
+    "size": 10,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 97,
+    "text": "3  РЕВОЛЮЦИЯ И ГРАЖДАНСКАЯ ВОЙНА",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 98.7,
+    "x2": 141.5,
+    "y2": 98.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 103,
+    "text": "1640: созыв",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 39,
+    "y": 104.1,
+    "x2": 141.5,
+    "y2": 104.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 39.6,
+    "y": 103,
+    "text": "Долгого парламента",
+    "size": 10.2,
+    "bold": false,
+    "field": "long-parliament",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 110,
+    "text": "1642: начало",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 43,
+    "y": 111.1,
+    "x2": 141.5,
+    "y2": 111.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 43.6,
+    "y": 110,
+    "text": "гражданской войны",
+    "size": 10.2,
+    "bold": false,
+    "field": "civil-war",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 117,
+    "text": "1645: Армия нового образца — войско парламента.",
+    "size": 9.1,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 124,
+    "text": "4  РЕСПУБЛИКА И ПРОТЕКТОРАТ",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 125.7,
+    "x2": 141.5,
+    "y2": 125.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 130,
+    "text": "1649: казнь Карла I; Англия —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 85,
+    "y": 131.1,
+    "x2": 141.5,
+    "y2": 131.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 85.6,
+    "y": 130,
+    "text": "республика",
+    "size": 9.5,
+    "bold": false,
+    "field": "commonwealth",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 137,
+    "text": "Республика —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 45,
+    "y": 138.1,
+    "x2": 141.5,
+    "y2": 138.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 45.6,
+    "y": 137,
+    "text": "форма правления без монарха",
+    "size": 9.3,
+    "bold": false,
+    "field": "republic",
+    "category": "definition"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 144,
+    "text": "1653–1658: лорд-протектор",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 79,
+    "y": 145.1,
+    "x2": 141.5,
+    "y2": 145.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 79.6,
+    "y": 144,
+    "text": "Оливер Кромвель",
+    "size": 9.5,
+    "bold": false,
+    "field": "cromwell",
+    "category": "example"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 151,
+    "text": "5  ВОЗВРАЩЕНИЕ И ОГРАНИЧЕНИЕ МОНАРХИИ",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 152.7,
+    "x2": 141.5,
+    "y2": 152.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 157,
+    "text": "1660 — реставрация Стюартов.",
+    "size": 10,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 164,
+    "text": "1688 — Славная революция.",
+    "size": 10,
+    "bold": false
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 171,
+    "text": "1689 —",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 29,
+    "y": 172.1,
+    "x2": 141.5,
+    "y2": 172.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 29.6,
+    "y": 171,
+    "text": "Билль о правах",
+    "size": 10.2,
+    "bold": false,
+    "field": "bill",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 177,
+    "text": "Налоги — только с согласия",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 80,
+    "y": 178.1,
+    "x2": 141.5,
+    "y2": 178.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 80.6,
+    "y": 177,
+    "text": "парламента",
+    "size": 10.2,
+    "bold": false,
+    "field": "taxes",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 184,
+    "text": "6  КОНСТИТУЦИОННАЯ МОНАРХИЯ",
+    "size": 9.8,
+    "bold": true
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 185.7,
+    "x2": 141.5,
+    "y2": 185.7,
+    "width": 0.22
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 190,
+    "text": "Власть монарха ограничивают…",
+    "size": 10,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 7,
+    "y": 198.1,
+    "x2": 66,
+    "y2": 198.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 7.6,
+    "y": 197,
+    "text": "законы",
+    "size": 10.2,
+    "bold": false,
+    "field": "laws",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 69,
+    "y": 197,
+    "text": "и",
+    "size": 10.2,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 77,
+    "y": 198.1,
+    "x2": 141.5,
+    "y2": 198.1,
+    "width": 0.15
+  },
+  {
+    "kind": "text",
+    "x": 77.6,
+    "y": 197,
+    "text": "парламент",
+    "size": 10.2,
+    "bold": false,
+    "field": "parliament",
+    "category": "answer"
+  },
+  {
+    "kind": "text",
+    "x": 7,
+    "y": 204,
+    "text": "Мой вывод:",
+    "size": 9,
+    "bold": false
+  },
+  {
+    "kind": "line",
+    "x": 34,
+    "y": 204.8,
+    "x2": 141.5,
+    "y2": 204.8,
+    "width": 0.18
+  }
+]
